@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.divide{
+    height: 60px;
+    width: 100%;
+    background: #05a269;
+} 
+nav{
+    top: 0%;
+    height: 60px;
+    width: 100%;
+    background: #05a269;
+    position: fixed;
+    z-index: 42;
+}
+.kvv{
+    float: left;
+    margin: 10px;
+    width: 200px;
+}
+.portfolio{
+    height: auto;
+    width: 100%;
+    background: url(../img/green%20cube%205050.jpg) no-repeat fixed center center / cover transparent; ;
+}
+.ruimte{
+    width: 100%;
+}
+
+/*Behance---------------------------------------------------------------------------------------*/
+.behancea{
+    padding: 70px 50px;  
+}
+.behance_title{
+    color: black;
+    background: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.holder{
+    background: rgb(255, 255, 255);
+    padding: 15px;
+}
+.titleLink{
+    color: white;
+    padding: 6px;
+    background:#05a269;
+    position: absolute;
+    margin-top: -38px;
+    margin-left: 10px;
+}
+.titleLink:hover{
+    color:#ebebeb;
+}
+
+.behance_entry{
+    margin-top: -20px
+}
+
+.behance_entry img {
+    width: 100%
+}
+.behance_entry a {
+    
+}
+
+.btext a{
+   color: black;   
+}
+.btext {
+    padding: 10px   
+}
+.behance_title img {
+    height: 32px;
+    width: 32px;
+    padding: 5px;
+}
+
+/*Behance---------------------------------------------------------------------------------------*/
+footer{
+    height: 35px;
+    width: 100%;
+    background: #05a269;
+}
+.disclaim{
+    color: white;
+    text-align: center;
+    margin-top: 12px;
+    font-size: 10px;
+    font-weight: 200;
+    letter-spacing: 2px;
+}
+
+
+
+
+
+
